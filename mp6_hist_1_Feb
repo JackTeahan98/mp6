@@ -1,0 +1,16 @@
+    1  mkdir project
+    2  cd project
+    3  ls -a
+    4  ls -al
+    5  git init
+    6  ls -al
+    7  touch README.md
+    8  ls -al
+    9  git add .
+   10  git status
+   11  git commit -m "Initial Commit"
+   12  git status
+   13  git remote add origin https://github.com/JackTeahan98/mp6.git
+   14  git push -u origin master
+   15  history
+   16  history > mp6_hist
